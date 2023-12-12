@@ -1,0 +1,7 @@
+- 👋 Salut, je suis une passionnée de data science en 3e année de Licence MIASHS, spécialisée en Économie des Administrations.
+- 📊 Fascinée par le pouvoir narratif des données et leur capacité à résoudre des problèmes complexes.
+- 🌟 À travers mes études et projets personnels, j'ai acquis des compétences en Python, R, SQL, et Java.
+- 🎨 J'ai aussi une expertise en design UX/UI (Photoshop, Illustrator, Figma).
+- 🌱 Toujours à la recherche de nouveaux défis et d'opportunités pour affiner mes compétences en analyse et visualisation de données.
+- 🔍 Sur mon GitHub, découvrez mes projets universitaires et personnels qui reflètent mon parcours et ma passion pour la data science.
+- 🤝 N'hésitez pas à explorer mes repos et à me contacter pour toute collaboration ou discussion autour de la data science!
